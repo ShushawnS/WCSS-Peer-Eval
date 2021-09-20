@@ -1,15 +1,15 @@
-<center><h1>West Carleton Secondary School Peer Evaluator</h1><center<hr>
+#West Carleton Secondary School Peer Evaluator
   
-<p><b>Developed by:</b> Hady Ibrahim and Shushawn Saha</p>
-<p><b>Languages Used:</b>PHP, mySQL, Javascript, HTML/CSS</p>
-<p><b>Technologies Used:</b>jQuery, Datatables, Highcharts, JSON</p>
-<p><b>Purpose:</b>A full-stack web-application where teachers create and manage projects, and students can easily evaluate their peers. Admins are able to </p>
+Developed by: Hady Ibrahim and Shushawn Saha
+Languages Used: PHP, mySQL, Javascript, HTML/CSS
+Technologies Used: jQuery, Datatables, Highcharts, JSON
+Purpose: A full-stack web-application where teachers create and manage projects, and students can easily evaluate their peers. Admins are able to 
   
-  <h1>View 1: Teacher</h1>
-  ![](Teacher View.png)
+#View 1: Teacher
+  ![image](Teacher View.png)
 
   
-  <h1>View 2: Student</h1>
-  ![](Student.png)
-  ![](Student Rating View.png)
+ #View 2: Student
+  ![image](Student.png)
+  ![image](Student Rating View.png)
 
