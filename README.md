@@ -6,10 +6,10 @@
 <p><b>Purpose:</b>A full-stack web-application where teachers create and manage projects, and students can easily evaluate their peers. Admins are able to </p>
   
   <h1>View 1: Teacher</h1>
-  ![image](Teacher View.png)
+  ![](Teacher View.png)
 
   
   <h1>View 2: Student</h1>
-  ![image](Student.png)
-  ![image](Student Rating View.png)
+  ![](Student.png)
+  ![](Student Rating View.png)
 
