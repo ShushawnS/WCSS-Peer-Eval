@@ -3,7 +3,7 @@
 [About](https://github.com/ShushawnS/WCSS-Peer-Eval/edit/master/README.md#about) | [Tech Stack](https://github.com/ShushawnS/WCSS-Peer-Eval/edit/master/README.md#tech-stack) | [Functionality](https://github.com/ShushawnS/WCSS-Peer-Eval/edit/master/README.md#tech-stack) | [Demo Video - Notion Page](https://nova-attic-ec5.notion.site/WCSS-Peer-Evaluator-966d035f74694a8d8500d2bd6b8d71d8) | [Website Visual](https://github.com/ShushawnS/WCSS-Peer-Eval/edit/master/README.md#website-visual)
 
 ### About 
-WCSS Peer Evaluator is an end-to-end web-application that allows teachers to create groups and students to rate their team memembers. It was designed with scale as it is being **used by over 1,300 students at a highschool in Ottawa, Canada**. The goal of the application is to simplify the process when group work occurs. This project was developed by [Hady Ibrahim](https://github.com/itshady) and [Shushawn Saha](https://github.com/ShushawnS). </br> </br> [Click here for a brief demo video!](https://nova-attic-ec5.notion.site/WCSS-Peer-Evaluator-966d035f74694a8d8500d2bd6b8d71d8)
+WCSS Peer Evaluator is an end-to-end web-application that allows teachers to create groups and students to rate their team members. It was designed with scale as it is being **used by over 1,300 students at a highschool in Ottawa, Canada**. The goal of the application is to simplify the process when group work occurs. This project was developed by [Hady Ibrahim](https://github.com/itshady) and [Shushawn Saha](https://github.com/ShushawnS). </br> </br> [Click here for a brief demo video!](https://nova-attic-ec5.notion.site/WCSS-Peer-Evaluator-966d035f74694a8d8500d2bd6b8d71d8)
 
 <p align="center">
   <img src="/src/peerC/favicon.png" alt="peer_icon" width="150" height="150"/>
